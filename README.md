@@ -1,5 +1,10 @@
-# Online Shopping System (Java)
+<p align="center">
+  <img src="banner.png" alt="Java Online Shopping System" width="100%">
+</p>
 
+
+
+# Online Shopping System (Java)
 A simple console-based Java project for managing an online shopping system.
 
 ## Features
