@@ -1,0 +1,15 @@
+Quick run instructions (Linux / macOS / Windows WSL / Git Bash):
+
+1. Compile:
+   mkdir -p out
+   javac src/*.java -d out
+
+2. Run:
+   java -cp out Main
+
+If using Windows Command Prompt:
+   mkdir out
+   javac src\*.java -d out
+   java -cp out Main
+
+If you prefer an IDE, create a new Java project and add the files from the `src` folder.
